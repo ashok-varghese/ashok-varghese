@@ -14,15 +14,11 @@
 - [Ashok Varghese](https://ashok-varghese.me)
 
 ---
-
-### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashok-varghese&hide_border=true" alt="streak stats"/>
 </p>
+
 ---
-
-### 📈 Contribution Activity (auto-generated bot)
-
 <!--START_SECTION:activity-->
 <!-- This section is auto-updated by the github-readme-activity-graph & activity bots below -->
 <!--END_SECTION:activity-->
@@ -33,7 +29,7 @@
 
 ---
 
-### 🌦️ Live Weather
+<p align="center"> <a href="https://ashok-varghese.me/weather.html"> <img src="https://img.shields.io/badge/🔍_Check_any_city's_weather-5EC8E0?style=for-the-badge&logoColor=white" /> </a> </p>
+
 <p align="center"> <img src="https://raw.githubusercontent.com/ashok-varghese/ashok-varghese/weather-output/weather-card.svg" alt="live weather card"/> </p>
 
-<p align="center"> <a href="https://ashok-varghese.me/weather.html"> <img src="https://img.shields.io/badge/🔍_Check_any_city's_weather-5EC8E0?style=for-the-badge&logoColor=white" /> </a> </p>
