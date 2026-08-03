@@ -1,6 +1,6 @@
 <h1 align="center">Ashok Varghese Mathai</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Student+at+Kristu+Jayanti+University;Burdened+with+glorious+purpose;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=2F80ED&center=true&vCenter=true&width=500&lines=The+one+who+brings+joy;Burdened+with+glorious+purpose" alt="Typing SVG" />
 </p>
 
 
