@@ -159,7 +159,7 @@ def build_svg(city: str, data: dict) -> str:
   <text x="130" y="70" fill="#B0BEC5" font-family="Verdana, sans-serif" font-size="13">{desc}</text>
 
   <text x="130" y="100" fill="#FFC93C" font-family="Verdana, sans-serif" font-size="26" font-weight="bold">{temp_c}&#176;C</text>
-  <text x="200" y="100" fill="#78909C" font-family="Verdana, sans-serif" font-size="12">feels {feels_like}&#176;C</text>
+  <text x="200" y="115" fill="#78909C" font-family="Verdana, sans-serif" font-size="12">feels {feels_like}&#176;C</text>
 
   <text x="130" y="122" fill="#90A4AE" font-family="Verdana, sans-serif" font-size="11">Humidity {humidity}%  |  Wind {wind_kmph} km/h  |  H:{max_temp}&#176; L:{min_temp}&#176;</text>
 
