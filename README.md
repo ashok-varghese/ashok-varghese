@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science & Electronics grad | Building things with Python, TypeScript & JS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Student+at+Kristu+Jayanti+University;BSc.+Computer+Science+%26+Electronics;Building+weather+%2F+fire-alert+%2F+portfolio+apps;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Student+at+Kristu+Jayanti+University;Burdened+with+glorious+purpose;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 
@@ -12,6 +12,7 @@
 
 - 🎓 Student at **Kristu Jayanti (Deemed to be) University**
 - 🏫 BSc. Computer Science & Electronics graduate, Kristu Jayanti College
+- 🏫 MCA, Kristu jayanti University
 - 🛠️ Recent projects: weather forecasting, fire alerting systems, and personal portfolio
 - 📫 Reach me via my [GitHub profile](https://github.com/ashok-varghese)
 
@@ -48,8 +49,5 @@
 
 ---
 
-### 🐍 Contribution Snake (auto-generated bot)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashok-varghese/ashok-varghese/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+### 🌦️ Live Weather
+<p align="center"> <img src="https://raw.githubusercontent.com/ashok-varghese/ashok-varghese/weather-output/weather-card.svg" alt="live weather card"/> </p>
