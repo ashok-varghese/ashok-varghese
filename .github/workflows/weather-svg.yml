@@ -1,0 +1,37 @@
+# Place this file at: .github/workflows/weather-svg.yml
+# This bot regenerates the animated weather-card.svg and publishes it to the
+# "weather-output" branch, which the README embeds directly by raw URL.
+
+name: Generate Weather Card
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # runs every 3 hours
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate weather card SVG
+        run: python generate_weather_svg.py
+
+      - name: Publish to weather-output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: weather-output
+          keep_files: false
