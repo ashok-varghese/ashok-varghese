@@ -31,20 +31,9 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashok-varghese&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashok-varghese&layout=compact&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashok-varghese&hide_border=true" alt="streak stats"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashok-varghese&theme=flat&no-frame=true&column=7&margin-w=10" alt="trophies"/>
-</p>
-
 ---
 
 ### 📈 Contribution Activity (auto-generated bot)
@@ -64,17 +53,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashok-varghese/ashok-varghese/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-
-> This snake animates your contribution graph and updates itself daily via the GitHub Action in `snake.yml` below.
-
----
-
-### 🎯 Repository Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashok-varghese&color=2F80ED&style=flat" alt="profile views"/>
-</p>
-
----
-
-<p align="center"><i>This README refreshes itself automatically — see the workflow bots below.</i></p>
