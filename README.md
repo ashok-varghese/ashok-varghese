@@ -1,16 +1,84 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashok Varghese Mathai</h1>
+<h3 align="center">Computer Science & Electronics grad | Building things with Python, TypeScript & JS</h3>
 
-<!--
-**ashok-varghese/ashok-varghese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Student+at+Kristu+Jayanti+University;BSc.+Computer+Science+%26+Electronics;Building+weather+%2F+fire-alert+%2F+portfolio+apps;Always+learning+something+new" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/ashok-varghese?tab=followers"><img src="https://img.shields.io/github/followers/ashok-varghese?label=Followers&style=social" /></a>
+  <a href="https://ashok-varghese.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-2F80ED?style=flat&logo=googlechrome&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🎓 Student at **Kristu Jayanti (Deemed to be) University**
+- 🏫 BSc. Computer Science & Electronics graduate, Kristu Jayanti College
+- 🛠️ Recent projects: weather forecasting, fire alerting systems, and personal portfolio
+- 📫 Reach me via my [GitHub profile](https://github.com/ashok-varghese)
+
+---
+
+### 🧰 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashok-varghese&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashok-varghese&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashok-varghese&hide_border=true" alt="streak stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashok-varghese&theme=flat&no-frame=true&column=7&margin-w=10" alt="trophies"/>
+</p>
+
+---
+
+### 📈 Contribution Activity (auto-generated bot)
+
+<!--START_SECTION:activity-->
+<!-- This section is auto-updated by the github-readme-activity-graph & activity bots below -->
+<!--END_SECTION:activity-->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashok-varghese&theme=react-dark&hide_border=true" alt="activity graph"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake (auto-generated bot)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashok-varghese/ashok-varghese/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+> This snake animates your contribution graph and updates itself daily via the GitHub Action in `snake.yml` below.
+
+---
+
+### 🎯 Repository Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashok-varghese&color=2F80ED&style=flat" alt="profile views"/>
+</p>
+
+---
+
+<p align="center"><i>This README refreshes itself automatically — see the workflow bots below.</i></p>
