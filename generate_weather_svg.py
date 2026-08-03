@@ -17,7 +17,7 @@ import urllib.request
 from datetime import datetime, timezone
 
 # Change this to your city. Format: "City" or "City,CountryCode"
-CITY = "Bangalore"
+CITY = "nenmeni"
 
 OUTPUT_PATH = "dist/weather-card.svg"
 
