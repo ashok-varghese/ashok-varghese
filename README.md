@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Student+at+Kristu+Jayanti+University;BSc.+Computer+Science+%26+Electronics;Building+weather+%2F+fire-alert+%2F+portfolio+apps;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ashok-varghese?tab=followers"><img src="https://img.shields.io/github/followers/ashok-varghese?label=Followers&style=social" /></a>
-  <a href="https://ashok-varghese.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-2F80ED?style=flat&logo=googlechrome&logoColor=white" /></a>
-</p>
 
 ---
 
