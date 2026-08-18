@@ -34,15 +34,18 @@
             <animate attributeName="opacity" values="0.9;0" dur="1s" begin="0.8999999999999999s" repeatCount="indefinite"/>
           </line>
           
+          <polygon points="0,15 -6,32 0,32 -5,50 12,25 4,25 9,15" fill="#FFEB3B" opacity="0">
+            <animate attributeName="opacity" values="0;1;0;0;0;1;0" dur="2.5s" repeatCount="indefinite"/>
+          </polygon>
         </g>
 
   <text x="130" y="45" fill="#ECEFF1" font-family="Verdana, sans-serif" font-size="20" font-weight="bold">nenmeni</text>
-  <text x="130" y="70" fill="#B0BEC5" font-family="Verdana, sans-serif" font-size="13">Patchy rain nearby</text>
+  <text x="130" y="70" fill="#B0BEC5" font-family="Verdana, sans-serif" font-size="13">Thundery outbreaks in nearby</text>
 
-  <text x="130" y="100" fill="#FFC93C" font-family="Verdana, sans-serif" font-size="26" font-weight="bold">28&#176;C</text>
+  <text x="130" y="100" fill="#FFC93C" font-family="Verdana, sans-serif" font-size="26" font-weight="bold">27&#176;C</text>
   <text x="130" y="115" fill="#78909C" font-family="Verdana, sans-serif" font-size="12">feels 30&#176;C</text>
 
-  <text x="130" y="130" fill="#90A4AE" font-family="Verdana, sans-serif" font-size="11">Humidity 71%  |  Wind 7 km/h  |  H:35&#176; L:26&#176;</text>
+  <text x="130" y="130" fill="#90A4AE" font-family="Verdana, sans-serif" font-size="11">Humidity 78%  |  Wind 6 km/h  |  H:35&#176; L:26&#176;</text>
 
-  <text x="130" y="145" fill="#546E7A" font-family="Verdana, sans-serif" font-size="9">Updated 2026-08-17 21:18 UTC</text>
+  <text x="130" y="145" fill="#546E7A" font-family="Verdana, sans-serif" font-size="9">Updated 2026-08-18 00:49 UTC</text>
 </svg>
