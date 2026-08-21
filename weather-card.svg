@@ -18,12 +18,12 @@
         </g>
 
   <text x="130" y="45" fill="#ECEFF1" font-family="Verdana, sans-serif" font-size="20" font-weight="bold">nenmeni</text>
-  <text x="130" y="70" fill="#B0BEC5" font-family="Verdana, sans-serif" font-size="13">Overcast </text>
+  <text x="130" y="70" fill="#B0BEC5" font-family="Verdana, sans-serif" font-size="13">Cloudy </text>
 
-  <text x="130" y="100" fill="#FFC93C" font-family="Verdana, sans-serif" font-size="26" font-weight="bold">30&#176;C</text>
-  <text x="130" y="115" fill="#78909C" font-family="Verdana, sans-serif" font-size="12">feels 33&#176;C</text>
+  <text x="130" y="100" fill="#FFC93C" font-family="Verdana, sans-serif" font-size="26" font-weight="bold">33&#176;C</text>
+  <text x="130" y="115" fill="#78909C" font-family="Verdana, sans-serif" font-size="12">feels 36&#176;C</text>
 
-  <text x="130" y="130" fill="#90A4AE" font-family="Verdana, sans-serif" font-size="11">Humidity 59%  |  Wind 6 km/h  |  H:35&#176; L:28&#176;</text>
+  <text x="130" y="130" fill="#90A4AE" font-family="Verdana, sans-serif" font-size="11">Humidity 47%  |  Wind 6 km/h  |  H:35&#176; L:28&#176;</text>
 
-  <text x="130" y="145" fill="#546E7A" font-family="Verdana, sans-serif" font-size="9">Updated 2026-08-21 03:43 UTC</text>
+  <text x="130" y="145" fill="#546E7A" font-family="Verdana, sans-serif" font-size="9">Updated 2026-08-21 06:33 UTC</text>
 </svg>
